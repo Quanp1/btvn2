@@ -1,0 +1,361 @@
+@media all and (max-width:600px) {
+
+
+.tokennomics-background1 .tokennomics-heading{
+    width: 90%;
+}
+
+.tokennomics-background1 .tokennomics-heading .tokennomics-heading_left{
+}
+
+
+.tokennomics-background1 .tokennomics-heading .tokennomics-heading_left .tokennomics-heading_first{
+    width: 155px;
+}
+
+
+
+.tokennomics-background1 .tokennomics-heading .tokennomics-heading_right{
+    max-width: max-content;
+    
+}
+
+.tokennomics-background1 .tokennomics-heading .tokennomics-heading_left .tokennomics-heading_list ul{
+    display: none;
+}
+
+
+.tokennomics-background1 .tokennomics-heading .tokennomics-heading_right a{
+    display: none;
+}
+
+
+.tokennomics-background1 .tokennomics-heading .tokennomics-heading_right i{
+    display: block;
+}
+
+
+/* tokennomics-maskgroup */
+
+
+.tokennomics-background1 .tokennomics-maskgroup{
+    width: 90%;
+    margin: 55px auto 0;
+}
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_head{
+    max-width: 313px;
+    font-size: 2rem;
+    line-height: 36px;
+}
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_body{
+    margin: 14px auto 0;
+}
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_body .tokennomics-maskgroup_1{
+    max-width: 213px;
+    font-size: 1rem;
+}
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_body span{
+    font-size: 13.4vw;
+}
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_body .tokennomics-maskgroup_2{
+    font-size: 0.875rem;
+}
+
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer{
+    flex-direction: column;
+    width: 100%;
+    justify-content: unset;
+}
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_left {
+    margin: 20px 0;
+    max-width: 224px;
+    width: 100%;
+    align-self: flex-end;
+    order: 0;
+}
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_left .tokennomics-footer_1{
+    font-size: 0.875rem;
+    width: 100%;
+}
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_left span{
+    font-size: 9.4vw;
+    align-self: flex-end;
+    
+}
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_left .tokennomics-footer_2{
+    font-size: 0.75rem;
+    
+}
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_between{
+    margin: 50px auto 0;
+    /* width: 90%; */
+    max-width: 360px;
+    /* width: 80%; */
+    height:40%;
+    order: 1;
+    align-self: center;
+    opacity: 0.7;
+}
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_between  div{
+    width: 110%;
+    height: 105%;
+    top: 9%;
+    left: 0.1%;
+    transform: translate(-9% ,-0.1%);
+}
+
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_right{
+    order: 0;
+    max-width: 224px;
+    width: 100%;
+    
+}
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_right .tokennomics-footer_3{
+    font-size: 0.875rem;
+    width: 100%;
+}
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_right span{
+    font-size: 9.4vw;
+    align-self: flex-start;
+}
+
+
+.tokennomics-background1 .tokennomics-maskgroup .tokennomics-maskgroup_footer .tokennomics-footer_right .tokennomics-footer_4{
+    font-size: 0.75rem;
+    
+}
+
+
+
+
+
+/* tokennomics-background1_box */
+
+
+.tokennomics-background1 .tokennomics-background1_box{
+    width: 90%;
+    height: 890px;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year{
+    width: 163px;
+    height: 167px;
+
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_image18{
+    width: 48px;
+    height: 40px;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_image18 img{
+    width: 140%;
+    height: 140%;
+    object-fit: contain;
+}
+
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text{
+
+    margin-left:15%;
+
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_head .tokennomics-box_firstchild18{
+    margin-top: 8px;
+    font-size: 0.75rem;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text h3{
+    font-size: 0.875rem;
+    /* width: 140%; */
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text .tokennomics-box_nthchild p{
+    font-size: 0.9375rem;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text .tokennomics-box_nthchild .tokennomics-box_lastchild{
+    font-size: 0.75rem;
+}
+
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_image19{
+    width: 48px;
+    height: 40px;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text .tokennomics-box_firstchild19{
+    font-size: 0.75rem;
+}
+
+
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_image20{
+    width: 48px;
+    height: 40px;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text1{
+
+    margin-left:15%;
+
+}
+
+
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text1 .tokennomics-box_firstchild20{
+    font-size: 0.75rem;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text1 .tokennomics-box_nthchild1 .tokennomics-box_lastchild1{
+    font-size: 0.75rem;
+}
+
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_image21{
+    width: 48px;
+    height: 40px;
+}
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text1 .tokennomics-box_firstchild21{
+    font-size: 0.75rem;
+}
+
+
+.tokennomics-background1 .tokennomics-background1_box .tokennomics-box_year .tokennomics-box_text1 .tokennomics-box_nthchild1 p{
+    font-size: 0.9375rem;
+}
+
+
+
+/* tokennomics-background2 */
+
+.tokennomics-background2{
+    height: 730px;
+    background-image: url(".//assets/imgs/Mask\ Group\ \(5\).png");
+}
+
+.tokennomics-background2 .tokennomics-background2_rectangle1{
+    max-width: 335px;
+    width: 90%;
+    margin: 0 auto;
+    right: 5%;
+    height: 246px;
+    top: 15%;
+}
+
+.tokennomics-background2 .tokennomics-background2_rectangle1 .tokennomics-rectangle1_child{
+    max-width: 283px;
+    margin: 0 auto;
+}
+
+
+.tokennomics-background2 .tokennomics-background2_rectangle1 .tokennomics-rectangle1_child h2{
+    font-size: 1.125rem;
+}
+
+.tokennomics-background2 .tokennomics-background2_rectangle1 .tokennomics-rectangle1_child span{
+    margin-top: 20px;
+    font-size: min(260%,11vw);
+    line-height: 40.296px;
+}
+
+
+
+.tokennomics-background2 .tokennomics-background2_rectangle2{
+    max-width: 335px;
+    width: 90%;
+    margin: 0 auto;
+    left: 5%;
+    height: 246px;
+}
+
+.tokennomics-background2 .tokennomics-background2_rectangle2 .tokennomics-rectangle2_child{
+    max-width: 283px;
+    margin: 0 auto;
+}
+
+
+.tokennomics-background2 .tokennomics-background2_rectangle2 .tokennomics-rectangle2_child h2{
+    font-size: 1.125rem;
+}
+
+.tokennomics-background2 .tokennomics-background2_rectangle2 .tokennomics-rectangle2_child span{
+    margin-top: 18px;
+    font-size: min(260%,11vw);
+    line-height: 40.296px;
+}
+
+.tokennomics-background2 .tokennomics-background2_rectangle2 .tokennomics-rectangle2_child p{
+    font-size: 0.875rem;
+    line-height: 54px;
+}
+
+.tokennomics-background2 .tokennomics-background2_rectangle2 .tokennomics-rectangle2_child .tokennomics-child_ntext{
+    margin-top: 0;
+    font-size: 0.75rem;
+    line-height: 18px;
+}
+
+
+
+.tokennomics-background3 .tokennomics-background3_list{
+    display: none;
+}
+
+
+.tokennomics-background3 .tokennomics-background3_end{
+    width: 90%;
+    flex-direction: column;
+}
+
+.tokennomics-background3 .tokennomics-background3_end .tokennomics-background3_end_between{
+    margin: 33px auto;
+}
+
+.tokennomics-background3 .tokennomics-background3_end .tokennomics-background3_end_between a{
+    height: 48px;
+}
+
+
+.tokennomics-background3 .tokennomics-background3_end .tokennomics-background3_end_end div{
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
